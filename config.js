@@ -1,2 +1,4 @@
 console.log('testing commit');
-// commit first
+// first commit
+// second commit using cmd
+//third commit using cmd
